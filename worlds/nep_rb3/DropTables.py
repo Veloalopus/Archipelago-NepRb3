@@ -127,3 +127,78 @@ gigoDepths_treasure2 = [InternalItem(IDs.HEALING_POD, 2)]
 gigoDepths_treasure3 = [InternalItem(IDs.SPCHARGER_P, 1)]
 gigoDepths_treasure4 = [InternalItem(IDs.FRAGMENT_LIFE, 1)]
 gigoDepths_treasure5 = [InternalItem(IDs.FRAGMENT_LIFE, 2)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Regular Monsters
+dogooDrop = [InternalItem(IDs.MAT_DOGOOJELLY, 1)]
+metalDogooDrop = [InternalItem(IDs.MAT_METALJELLY, 1)]
+hereticalDogooDrop = [InternalItem(IDs.MAT_HERETICALJELLY, 1)]
+redDogooDrop = [InternalItem(IDs.MAT_ORANGEJELLY, 1)]
+healDogooDrop = [InternalItem(IDs.MAT_GELFEELER, 1)]
+healingDogooDrop = [InternalItem(IDs.MAT_REDGELFEELER, 1)]
+highHealDogooDrop = [InternalItem(IDs.MAT_BLACKGELFEELER, 1)]
+numbDogooDrop = [InternalItem(IDs.MAT_NUMBJELLY, 1)]
+magicDogooDrop = [InternalItem(IDs.MAT_MAGICALJELLY, 1)]
+jellyfishDogooDrop = [InternalItem(IDs.MAT_GELFEELER, 1)]
+magicalDogooDrop = [InternalItem(IDs.MAT_MAGICALJELLY, 1)]
+paralyzeDogooDrop = [InternalItem(IDs.MAT_NUMBJELLY, 1)]
+shoebillDrop = [InternalItem(IDs.MAT_LARGEBEAK, 1)]
+paradiseAvianDrop = [InternalItem(IDs.MAT_RAINBOWWING, 1)]
+rukhDrop = [InternalItem(IDs.MAT_VERYLARGEBEAK, 1)]
+nueDrop = [InternalItem(IDs.MAT_MAGICALBEAK, 1)]
+viralShoebillDrop = [InternalItem(IDs.MAT_LARGEBEAK, 1)]
+viralParadiseAvianDrop = [InternalItem(IDs.MAT_RAINBOWWING, 1)]
+viralRukhDrop = [InternalItem(IDs.MAT_VERYLARGEBEAK, 1)]
+viralNueDrop = [InternalItem(IDs.MAT_MAGICALBEAK, 1)]
+viralEerieBirdDrop = [InternalItem(IDs.MAT_PHANTOMBIRDWING, 1)]
+bitDrop = [InternalItem(IDs.MAT_SMALLCONDUCTOR, 1)]
+customBitDrop = [InternalItem(IDs.MAT_ILLEGALCONDUCTOR, 1)]
+highBitDrop = [InternalItem(IDs.MAT_ILLEGALGADGET, 1)]
+highBitCustomDrop = [InternalItem(IDs.MAT_ILLEGALDEVICE, 1)]
+nextGenBitDrop = [InternalItem(IDs.MAT_ILLEGALTECH, 1)]
+bugDrop = [InternalItem(IDs.MAT_ILLEGALTECH, 1)]
+supportBitDrop = [InternalItem(IDs.MAT_ILLEGALSSD, 1)]
+iceSkeletonDrop = [InternalItem(IDs.MAT_ICEBONE, 1)]
+skeletonDrop = [InternalItem(IDs.MAT_BONEFRAGMENT, 1)]
+frozenSkullDrop = [InternalItem(IDs.MAT_ICESKELETON, 1)]
+woodSkeletonDrop = [InternalItem(IDs.MAT_STRONGWOOD, 1)]
+flameSkeletonDrop = [InternalItem(IDs.MAT_FLAMINBONE, 1)]
+blazingSkeletonDrop = [InternalItem(IDs.MAT_MOLTENBONE, 1)]
+skullDrop = [InternalItem(IDs.MAT_GOLDENTOOTH, 1)]
+m3Drop = [InternalItem(IDs.MAT_CRUDECIRCUIT, 1)]
+r4Drop = [InternalItem(IDs.MAT_ILLEGALMEMORY, 1)]
+sdhcDrop = [InternalItem(IDs.MAT_ILLEGALROM, 1)]
+dsttDrop = [InternalItem(IDs.MAT_ILLEGALHARDWARE, 1)]
+
+
+
+
+
+
+
+
+
+# ???
+gypsDrop = [InternalItem(IDs.MAT_PHANTOMBIRDWING, 1)]
+autoSurveillanceDrop = [InternalItem(IDs.MAT_ILLEGALROM, 1)]
+
+
+
+
+
+
+
+
+
+
